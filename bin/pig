@@ -1,0 +1,3 @@
+#!/bin/bash
+PIG_HOME=${PIG_HOME:-/opt/pig}
+$PIG_HOME/bin/pig $@

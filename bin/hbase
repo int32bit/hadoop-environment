@@ -1,0 +1,3 @@
+#!/bin/bash
+HBASE_HOME=${HADOOP_HOME:-/opt/hbase}
+$HBASE_HOME/bin/hbase $@

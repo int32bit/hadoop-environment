@@ -1,0 +1,7 @@
+google/**
+**/logs/**
+**/test/**
+**/test*/**
+**/doc*/**
+**/hdfs/namenode/**
+**/hdfs/datanode/**
