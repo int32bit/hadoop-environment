@@ -5,3 +5,5 @@ google/**
 **/doc*/**
 **/hdfs/namenode/**
 **/hdfs/datanode/**
+**/example*/**
+**/metastore_db/**
