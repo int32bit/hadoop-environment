@@ -1,1 +1,3 @@
-/opt/hive/bin/beeline
+#!/bin/bash
+HIVE_HOME=${HIVE_HOME:-/opt/hive}
+$HIVE_HOME/bin/beeline $@

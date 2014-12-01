@@ -1,1 +1,3 @@
-/opt/hadoop/bin/yarn
+#!/bin/bash
+HADOOP_HOME=${HADOOP_HOME:-/opt/hadoop}
+$HADOOP_HOME/bin/yarn $@

@@ -1,1 +1,4 @@
-/opt/hive/hcatalog/bin/hcat
+#!/bin/bash
+HIVE_HOME=${HIVE_HOME:-/opt/hive}
+HCATALOG_HOME=${HCATALOG_HOME:-$HIVE_HOME/hcatalog}
+$HCATALOG_HOME/bin/hcat $@

@@ -72,6 +72,12 @@ if [[ -d "$SPARK_HOME" ]]
 	else
 		echo "Failed to start spark master"
 	fi
-	$SPARKHOME/bin/spark-class org.apache.spark.deploy.worker.Worker spark://lenovo:8080
+	#$SPARKHOME/bin/spark-class org.apache.spark.deploy.worker.Worker spark://lenovo:8080
+	if $SPARK_HOME/sbin/start-slaves.sh
+	then
+		echo "Succeed to start spark slaves"
+	else
+		echo "Failed to start spark slaves"
+	fi
 fi
 
