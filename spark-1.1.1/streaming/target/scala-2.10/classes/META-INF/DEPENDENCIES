@@ -29,6 +29,8 @@ From: 'an unknown organization'
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Guava: Google Core Libraries for Java (http://code.google.com/p/guava-libraries/guava) com.google.guava:guava:bundle:14.0.1
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - java-xmlbuilder (http://code.google.com/p/java-xmlbuilder/) com.jamesmurty.utils:java-xmlbuilder:jar:0.4
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
   - Ning-compress-LZF (http://github.com/ning/compress) com.ning:compress-lzf:bundle:1.0.0
     License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
   - ParaNamer Core (http://paranamer.codehaus.org/paranamer) com.thoughtworks.paranamer:paranamer:jar:2.6
@@ -41,7 +43,7 @@ From: 'an unknown organization'
     License: GNU General Public Library  (http://www.gnu.org/licenses/gpl.txt)    License: COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0  (http://www.sun.com/cddl/cddl.html)
   - JLine (http://jline.sourceforge.net) jline:jline:jar:0.9.94
     License: BSD  (LICENSE.txt)
-  - An open source Java toolkit for Amazon S3 (http://jets3t.s3.amazonaws.com/index.html) net.java.dev.jets3t:jets3t:jar:0.7.1
+  - An open source Java toolkit for Amazon S3 (http://www.jets3t.org) net.java.dev.jets3t:jets3t:jar:0.9.0
     License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
   - LZ4 and xxHash (https://github.com/jpountz/lz4-java) net.jpountz.lz4:lz4:jar:1.2.0
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -133,7 +135,7 @@ From: 'FuseSource, Corp.' (http://fusesource.com/)
     License: The BSD 3-Clause License  (http://www.opensource.org/licenses/BSD-3-Clause)
 
 From: 'Google' (http://www.google.com/)
-  - Protocol Buffer Java API (http://code.google.com/p/protobuf) com.google.protobuf:protobuf-java:jar:2.4.1
+  - Protocol Buffer Java API (http://code.google.com/p/protobuf) com.google.protobuf:protobuf-java:bundle:2.5.0
     License: New BSD license  (http://www.opensource.org/licenses/bsd-license.php)
   - Protocol Buffer Java API (http://code.google.com/p/protobuf) org.spark-project.protobuf:protobuf-java:jar:2.4.1-shaded
     License: New BSD license  (http://www.opensource.org/licenses/bsd-license.php)
@@ -259,9 +261,9 @@ From: 'The Apache Software Foundation' (http://www.apache.org/)
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - ApacheDS Protocol Kerberos Codec (http://directory.apache.org/apacheds/1.5/apacheds-kerberos-codec) org.apache.directory.server:apacheds-kerberos-codec:bundle:2.0.0-M15
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - HttpClient (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpclient:jar:4.2.5
+  - HttpClient (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpclient:jar:4.1.2
     License: Apache License  (LICENSE.txt)
-  - HttpCore (http://hc.apache.org/httpcomponents-core-ga) org.apache.httpcomponents:httpcore:jar:4.2.4
+  - HttpCore (http://hc.apache.org/httpcomponents-core-ga) org.apache.httpcomponents:httpcore:jar:4.1.2
     License: Apache License  (LICENSE.txt)
   - mesos (http://mesos.apache.org) org.apache.mesos:mesos:jar:0.18.1
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
