@@ -17,6 +17,7 @@ HADOOP_CONF_DIR=/opt/hadoop/etc/hadoop
 # - SPARK_CLASSPATH, default classpath entries to append
 # - SPARK_LOCAL_DIRS, storage directories to use on this node for shuffle and RDD data
 # - MESOS_NATIVE_LIBRARY, to point to your libmesos.so if you use Mesos
+SPARK_LOCAL_IP=10.103.244.62
 
 # Options read in YARN client mode
 # - HADOOP_CONF_DIR, to point Spark towards Hadoop configuration files
