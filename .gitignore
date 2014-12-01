@@ -7,3 +7,6 @@ google/**
 **/hdfs/datanode/**
 **/example*/**
 **/metastore_db/**
+**/tutorial*/**
+*.log
+spark-1.1.1/assembly/target/scala-2.10/spark-assembly-1.1.1-hadoop2.5.2.jar
